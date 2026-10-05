@@ -4,12 +4,13 @@ A systematic momentum strategy applied to S&P 500 equities, implemented and back
 
 The project attempts to investigate whether stocks with a strong recent performance tend to outperform the broader market over subsequent months.
 
-Before starting, I also would like to give a shoutout to ChatGPT and Claude for doing the heavy lifting on the coding side for me (I really need to get my Python skill up).
+Before starting, I want to say that the inspiration for this project was because it always intrigues me, as a long-term investor, how momentum could affect the stock even though fundamental remains the same. So, I decided to investigate it further. I also would like to give a shoutout to ChatGPT and Claude for doing the heavy lifting on the coding side for me (I really need to get my Python skill up).
+
 ---
 
 ## Overview
 
-This project implements a monthly-rebalanced, long-only momentum strategy based on the classic **12–1 momentum signal** (I chose this signal specificailly because it always intrigues me, while I was a long-term investor, how momentum could affect the stock without a massive change in the underlying fundamental).
+This project implements a monthly-rebalanced, long-only momentum strategy based on the classic **12–1 momentum signal** .
 
 At the end of each month:
 
