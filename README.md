@@ -4,7 +4,7 @@ A systematic momentum strategy applied to S&P 500 equities, implemented and back
 
 The project attempts to investigate whether stocks with a strong recent performance tend to outperform the broader market over subsequent months.
 
-Before starting, I want to state that the inspiration for this project was because it always intrigues me, as a long-term investor, how momentum could affect the stock even though fundamental remains the same. So, I decided to investigate it further. I also would like to give a shoutout to ChatGPT and Claude for doing the heavy lifting on the coding side for me (I really need to get my Python skill up).
+Before starting, I want to state that the inspiration for this project was because it has always intrigued me, as a long-term investor, how momentum could affect the stock even though the underlying fundamental remains the same. So, I decided to investigate it further. Also, I would like to give a shoutout to ChatGPT and Claude for doing the heavy lifting on the coding side for me (I really need to get my Python skill up).
 
 ---
 
